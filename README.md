@@ -1,5 +1,3 @@
- [![Linkedin Badge](https://img.shields.io/badge/-mohamedsauood-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamed-sauood/)](https://www.linkedin.com/in/mohamed-sauood/)  [![Gmail Badge](https://img.shields.io/badge/-mohamedsauood@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mohamedsauood@gmail.com)](mailto:mohamedsauood@gmail.com) [![GitHub followers](https://img.shields.io/github/followers/mohdsauood?label=Follow&style=social)](https://github.com/mohdsauood/?tab=follow)
-
 
 ## 🖐Hey there ,   I am [Mohamed Sauood](https://sauood.vercel.app/)
 ### A full-stack developer currently living in Sharjah (UAE). I have immense ❤️ for modern designs and web technologies. I enjoy working with HTML5, CSS3, React.js. I like to fiddle with Next js and Google Apps Scripts in my free time.
