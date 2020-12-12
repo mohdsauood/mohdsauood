@@ -9,7 +9,7 @@
 [![madinat-islamabad](https://github-readme-stats.vercel.app/api/pin/?username=mohdsauood&repo=madinat-islamabad&title_color=ff3004&icon_color=ff3004&text_color=9f9f9f&bg_color=white)](https://github.com/mohdsauood/madinat-islamabad)
 
 
-### For the past six months i've been working on madinatislamabad.com. I first designed the layouts on figma , analysed the Ux flow and chose the tech accordingly . I built the app on Next.js because i get the benefits of react with server side rendering for better SEO . Currently my web app shows up as 3rd link for the keyword "madinat islamabad" on google . Looking to optimise it further .Feel free to ask me anything about this project .
+### For the past six months i've been working on madinatislamabad.com. I first designed the layouts on figma , analysed the Ux flow and chose the tech accordingly . I built the app on Next.js because i get the benefits of react with server side rendering for better SEO . Currently my web app shows up in 3rd place for the keyword "madinat islamabad" on google . Looking to optimise it further .Feel free to ask me anything about this project .
 
 <br/>
 
