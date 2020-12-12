@@ -1,6 +1,6 @@
 
 ## 🖐Hey there ,   I am [Mohamed Sauood](https://sauood.vercel.app/)
-### A full-stack developer currently living in Sharjah (UAE). I have immense ❤️ for modern designs and web technologies. I enjoy working with HTML5, CSS3, React.js. I like to fiddle with Next js and Google Apps Scripts in my free time.
+### A full-stack developer currently living in Sharjah (UAE).I am really ❤️ passionate about doing web development, it is in my opinion the best combination of logical programming and beautiful design. I enjoy working in Javascript eco system and like to fiddle with Next js and Google Apps Scripts in my free time.
 
 <br/>
 
@@ -9,7 +9,7 @@
 [![madinat-islamabad](https://github-readme-stats.vercel.app/api/pin/?username=mohdsauood&repo=madinat-islamabad&title_color=ff3004&icon_color=ff3004&text_color=9f9f9f&bg_color=white)](https://github.com/mohdsauood/madinat-islamabad)
 
 
-### For the past six months i've been working on this web app. I designed the layouts on figma , analysed the Ux flow and chose the tech accordingly . I built the app on Next.js because i get the benefits of react with server side rendering for better SEO . Feel free to ask me anything about this project . 
+### For the past six months i've been working on madinatislamabad.com. I first designed the layouts on figma , analysed the Ux flow and chose the tech accordingly . I built the app on Next.js because i get the benefits of react with server side rendering for better SEO . Currently my web app shows up as 3rd link for the keyword "madinat islamabad" on google . Looking to optimise it further .Feel free to ask me anything about this project .
 
 <br/>
 
