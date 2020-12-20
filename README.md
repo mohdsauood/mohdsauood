@@ -22,7 +22,7 @@
 
 
 
--  📝[Resume](https://drive.google.com/file/d/14o2xUR5glFHIWPBvwGZiMHVzru11r_rA/view)
+## 📝[Resume](https://drive.google.com/file/d/10JiXAwqdIuciLq4TVOH5ulwItUNz5LaW/view?usp=sharing)
 
 # Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 
