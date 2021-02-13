@@ -7,7 +7,7 @@
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about **design**, **NextJs**,**SEO in SPA**
 - ⚡️ Fun fact: I'm a huge fan of Dc Comics
-<img align="left" src="https://i.imgur.com/V8tahT9.png">
+<img  src="https://i.imgur.com/2PG6zbg.jpg">
 
 <br/>
 
