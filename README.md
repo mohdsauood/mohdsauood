@@ -1,7 +1,7 @@
 
 ## 🖐Hey there ,   I am [Mohamed Sauood](https://sauood.vercel.app/)
 ### A full-stack developer working in Dubai (UAE).
-#### BIO
+### *BIO*
 - ⚙️ I use daily:`.js`, `.html`, `.css`, `.angular`
 - 🌍 I'm mostly active within the **Js Community**
 - 🌱 Learning all about **Open Source**
